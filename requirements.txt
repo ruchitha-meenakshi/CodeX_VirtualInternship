@@ -9,3 +9,4 @@ joblib
 streamlit
 mlflow
 dagshub
+altair==4.2.2
