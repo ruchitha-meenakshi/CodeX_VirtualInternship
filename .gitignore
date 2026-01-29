@@ -1,0 +1,18 @@
+# --- Data (Keep Private) ---
+data/
+*.csv
+*.xlsx
+docs/meta_data.txt
+
+# --- System & Environment ---
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- IDE Settings ---
+.idea/
+.vscode/
